@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebDeveloperJabir
+- 👋 Hi, I’m Jabir Ibne Habib
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
